@@ -1,7 +1,7 @@
 # gov_chatbots
 
-Created for fun to experiement with prompt engineering.
-Please probive suggestions for other bots.
+Created for fun to experiement with prompt engineering. Pop these into your friendly AI chat interface and have a play.
+Please provide suggestions for other bots, or improvements to the prompts
 
 Goverment ChatBots
 
