@@ -6,4 +6,4 @@ Please provide suggestions for other bots, or improvements to the prompts
 Goverment ChatBots
 
 1. [Decommissioning PSN](https://github.com/tractorjuice/gov_chatbots/blob/main/decommission_psn_bot)
-2. 
+2. [Create your own internal LLM policy](https://github.com/tractorjuice/gov_chatbots/blob/main/create_llm_policy)
